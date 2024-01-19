@@ -1,0 +1,7 @@
+curl -H "Accept: application/json" -H "Content-type: application/json" -X POST -d '{"idNum":"AIRY851019MGRV","orderId":"202306030947344","url":"https://prod-dev4.obs.la-north-2.myhuaweicloud.com:443/identityCardFront%2F89446b891ca94e099b2a7b99e7950347.jpg","url1":"https://prod-dev4.obs.la-north-2.myhuaweicloud.com:443/4518dab1c73f4ff7af2947bb44b298f2.jpg","name": "xiaoshengyang","gender": "0","phone":"538775107","birth": "2022-10-29","address": "beijing","app_type": "1"}'  http://10.211.0.86:8093/imageSearch_peru
+
+
+
+
+
+curl -H "Accept: application/json" -H "Content-type: application/json" -X POST -d '{"idNum":"AIRY851019MGRV","orderId":"202306030947344","url":"https://prod-dev4.obs.la-north-2.myhuaweicloud.com:443/identityCardFront%2F89446b891ca94e099b2a7b99e7950347.jpg","url1":"https://prod-dev4.obs.la-north-2.myhuaweicloud.com:443/4518dab1c73f4ff7af2947bb44b298f2.jpg","name": "xiaoshengyang","gender": "0","phone":"538775107","birth": "2022-10-29","address": "beijing","app_type": "1"}'  http://10.211.0.86:8093/imageSearch_peru
